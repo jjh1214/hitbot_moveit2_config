@@ -38,6 +38,6 @@ $ source hitbot_ws/install/local_setup.bash
 
 # Run - Moveit2 simulation
 ```
-$ ros2 launch hitbot_moveit2_config demo.launch.py
+$ ros2 launch hitbot_sim hitbot_moveit2.launch.py
 ```
 ![alt text](<Screenshot from 2024-05-13 13-23-45.png>)
